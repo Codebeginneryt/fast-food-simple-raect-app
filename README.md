@@ -1,3 +1,5 @@
+![logo](https://github.com/Codebeginneryt/fast-food-simple-raect-app/blob/main/public/img/Screenshot%20(18).png)
+![logo](https://github.com/Codebeginneryt/fast-food-simple-raect-app/blob/main/public/img/Screenshot%20(19).png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
